@@ -1,6 +1,13 @@
 {
-  "suppress_first_run_page": { "Value": true },
-  "additional_subscriptions": {
-    "Value": [ "https://raw.githubusercontent.com/kaerez/adblock/refs/heads/main/jumbomail_block_login_upload.txt" ]
-  }
+    "suppress_first_run_page": true,
+    "additional_subscriptions": {
+        "Value": [
+            "https://raw.githubusercontent.com/kaerez/adblock/refs/heads/main/jumbomail_block_login_upload.txt"
+        ]
+    },
+    "disableDashboard": true,
+    "userSettings": {
+        "contextMenuEnabled": false,
+        "showIconBadge": false
+    }
 }
