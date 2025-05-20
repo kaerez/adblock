@@ -1,5 +1,10 @@
 {
     "suppress_first_run_page": true,
+    "shouldShowFirstRunPage": false,
+    "subscriptions_exceptionsurl": "",
+    "subscriptions_exceptionsurl_privacy": "",
+    "subscriptions_antiadblockurl": "",
+    "subscriptions_enabled": [],
     "additional_subscriptions": {
         "Value": [
             "https://raw.githubusercontent.com/kaerez/adblock/refs/heads/main/jumbomail_block_login_upload.txt"
