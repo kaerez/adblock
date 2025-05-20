@@ -1,0 +1,9 @@
+||login.microsoftonline.com^$domain=jumbomail.me
+||api.jumbomail.me/Mails/ReactCreateEmptyMail
+||api.jumbomail.me/Mails/GetVerificationCodeSettings
+||api.jumbomail.me/UserVerifiedCode/CreateNewVerifiedCode
+||api.jumbomail.me/UserVerifiedCode/RequiredVerification
+||api.jumbomail.me/Token
+||accounts.google.com^$domain=jumbomail.me
+||api.jumbomail.me/Users/MVCLogin
+||api.jumbomail.me/Users/*
