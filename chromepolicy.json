@@ -1,0 +1,6 @@
+{
+  "suppress_first_run_page": { "Value": true },
+  "additional_subscriptions": {
+    "Value": [ "https://raw.githubusercontent.com/kaerez/adblock/refs/heads/main/jumbomail_block_login_upload.txt" ]
+  }
+}
